@@ -1,7 +1,7 @@
 ARDroneRouter
 =============
 
-Routes an ARDrone 1.0 WiFi signal from [Drone] -> [WiFi Router] -> [PC] -> [WiFi Router] -> [iPad/Android/PC Conroller].  
+Routes an ARDrone 1.0 WiFi signal from [Drone] -> [WiFi Router] -> [PC] -> [WiFi Router] -> [iPad/Android/PC Controller].  
 
 This was made for Quadrocopter Competitions allowing Judges to override controls.  
 
